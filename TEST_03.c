@@ -1,5 +1,5 @@
 //Wickramasinghe T.W.M.K.L
-//IT19243290
+
 #include<stdio.h>
 //function prototype
 floatcalculateWeeklySalary(int grade,float hrsWorked);
