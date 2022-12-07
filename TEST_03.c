@@ -1,4 +1,4 @@
-//Wickramasinghe T.W.M.K.L
+//kavindu lakmal
 
 #include<stdio.h>
 //function prototype
